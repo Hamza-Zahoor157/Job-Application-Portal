@@ -1,0 +1,42 @@
+﻿@model IEnumerable<JobPortal.Models.Applicant>
+@{
+    ViewData["Title"] = "Applicants List";
+}
+
+<h2 class="text-white mb-4">Applicants</h2>
+<table class="table table-dark table-hover table-bordered shadow">
+    <thead class="table-light text-dark">
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.FullName)</th>
+            <th>@Html.DisplayNameFor(model => model.Email)</th>
+            <th>Resume</th>
+            <th>Job</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.FullName)</td>
+                <td>@Html.DisplayFor(modelItem => item.Email)</td>
+                <td>
+                    <a href="@item.ResumeUrl" target="_blank" class="btn btn-outline-info btn-sm">View</a>
+                </td>
+                <td>@item.JobPosition?.Title</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-warning">Edit</a>
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-primary">Details</a>
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger">Delete</a>
+                </td>
+                @* <td> *@
+                @*     @if (!string.IsNullOrEmpty(item.ResumeUrl)) *@
+                @*     { *@
+                @*         <a href="@item.ResumeUrl" target="_blank">View Resume</a> *@
+                @*     } *@
+                @* </td> *@
+            </tr>
+        }
+    </tbody>
+</table>
+<a asp-action="Create" class="btn btn-success mt-3">Apply for Job</a>

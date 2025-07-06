@@ -1,0 +1,50 @@
+﻿@model JobPortal.Models.Applicant
+
+@{
+    ViewData["Title"] = "Apply for Job";
+}
+<div class="card bg-dark text-light shadow-lg p-4 mx-auto" style="max-width: 600px;">
+    <h2 class="text-center mb-4">Apply for a Job</h2>
+
+    @if (TempData["UploadError"] != null)
+    {
+        <div class="alert alert-danger">@TempData["UploadError"]</div>
+    }
+
+    @if (TempData["UploadSuccess"] != null)
+    {
+        <div class="alert alert-success">@TempData["UploadSuccess"]</div>
+    }
+
+    @if (TempData["Debug"] != null)
+    {
+        <div class="alert alert-info">@TempData["Debug"]</div>
+    }
+
+    <form asp-action="Create" enctype="multipart/form-data">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+        <div class="mb-3">
+            <label for="JobPositionId" class="form-label">Job Position</label>
+            <select name="JobPositionId" id="JobPositionId" class="form-select" asp-items="ViewBag.JobPositionId">
+                <option value="">-- Select Position --</option>
+            </select>
+            <span class="text-danger field-validation-error" data-valmsg-for="JobPositionId"></span>
+        </div>
+
+        <div class="mb-3">
+            <label for="ResumeFile" class="form-label">Resume File</label>
+            <input name="ResumeFile" id="ResumeFile" type="file" class="form-control" accept=".pdf,.docx,.jpg,.png" />
+            <small class="form-text text-muted">Accepted formats: PDF, DOCX, JPG, PNG (Max size: 10MB)</small>
+            <span class="text-danger field-validation-error" data-valmsg-for="ResumeFile"></span>
+        </div>
+
+        <button type="submit" class="btn btn-success w-100">Submit Application</button>
+    </form>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

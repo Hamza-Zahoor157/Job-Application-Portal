@@ -1,0 +1,38 @@
+﻿@model JobPortal.Models.Applicant
+@{
+    ViewData["Title"] = "Edit";
+}
+<div class="card bg-dark text-light shadow-lg p-4 mx-auto" style="max-width: 600px;">
+    <h2 class="text-center mb-4">Apply for a Job</h2>
+    <form asp-controller="Applicants" asp-action="Edit" enctype="multipart/form-data">
+        <input type="hidden" asp-for="Id" />
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="mb-3">
+            <label asp-for="JobPositionId" class="form-label">Job Position</label>
+            <select asp-for="JobPositionId" class="form-select" asp-items="ViewBag.JobPositionId"></select>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Current Resume</label>
+            @if (!string.IsNullOrEmpty(Model.ResumeUrl))
+            {
+                <a href="@Model.ResumeUrl" target="_blank">View Current Resume</a>
+            }
+            else
+            {
+                <span class="text-warning">No resume uploaded.</span>
+            }
+        </div>
+        <div class="mb-3">
+            <label asp-for="ResumeFile" class="form-label">Upload New Resume (optional)</label>
+            <input asp-for="ResumeFile" type="file" class="form-control" accept=".pdf,.docx,.jpg,.png" />
+            <small class="form-text text-muted">Accepted formats: PDF, DOCX, JPG, PNG (Max size: 10MB)</small>
+            <span asp-validation-for="ResumeFile" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-success w-100">Update Application</button>
+    </form>
+</div>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

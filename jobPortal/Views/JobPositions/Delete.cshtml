@@ -1,0 +1,26 @@
+﻿@model JobPortal.Models.JobPosition
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<div class="container mt-5 text-white">
+    <div class="bg-dark bg-opacity-75 p-4 rounded shadow">
+        <h2 class="mb-4 text-danger">Are you sure you want to delete this job?</h2>
+        <dl class="row">
+            <dt class="col-sm-3">Title</dt>
+            <dd class="col-sm-9">@Model.Title</dd>
+
+            <dt class="col-sm-3">Description</dt>
+            <dd class="col-sm-9">@Model.Description</dd>
+
+            <dt class="col-sm-3">Salary</dt>
+            <dd class="col-sm-9">@Model.Salary</dd>
+        </dl>
+        <form asp-action="Delete">
+            <input type="hidden" asp-for="Id" />
+            <button type="submit" class="btn btn-danger">Confirm Delete</button>
+            <a asp-action="Index" class="btn btn-outline-light ms-2">Back to List</a>
+        </form>
+    </div>
+</div>

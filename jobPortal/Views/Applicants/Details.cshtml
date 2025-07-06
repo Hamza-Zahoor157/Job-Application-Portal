@@ -1,0 +1,32 @@
+﻿@model JobPortal.Models.Applicant
+@{
+    ViewData["Title"] = "Applicant Details";
+}
+
+<div class="card bg-dark text-light shadow p-4 mx-auto" style="max-width: 600px;">
+    <h3 class="mb-3">Applicant Details</h3>
+
+    <p><strong>Name:</strong> @Model.FullName</p>
+    <p><strong>Email:</strong> @Model.Email</p>
+
+    <p>
+        <strong>Resume:</strong>
+        @if (!string.IsNullOrEmpty(Model.ResumeUrl))
+        {
+            <a href="@Model.ResumeUrl" target="_blank" class="btn btn-outline-info btn-sm ms-2">
+                📄 View Resume
+            </a>
+        }
+        else
+        {
+            <span class="text-muted">No resume uploaded</span>
+        }
+    </p>
+
+    <p><strong>Job Applied:</strong> @Model.JobPosition?.Title</p>
+
+    <div class="mt-4">
+        <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning me-2">Edit</a>
+        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+    </div>
+</div>

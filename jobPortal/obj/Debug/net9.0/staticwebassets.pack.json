@@ -1,0 +1,317 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\jobPortal.bundle.scp.css",
+      "PackagePath": "staticwebassets\\jobPortal.zhkwfw5bcl.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\Resumes\\0b8d2d2b-5ae9-4b11-bb87-868b21bb97f4.pdf",
+      "PackagePath": "staticwebassets\\Resumes\\0b8d2d2b-5ae9-4b11-bb87-868b21bb97f4.pdf"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\Resumes\\1a2414b9-d3c7-48e8-997b-996e4426611c.docx",
+      "PackagePath": "staticwebassets\\Resumes\\1a2414b9-d3c7-48e8-997b-996e4426611c.docx"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\Resumes\\745339f6-06d2-45b0-b167-1eaef99f33fb.pdf",
+      "PackagePath": "staticwebassets\\Resumes\\745339f6-06d2-45b0-b167-1eaef99f33fb.pdf"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\Resumes\\8046ff2c-4492-4948-8e3a-2a9da410a44d.pdf",
+      "PackagePath": "staticwebassets\\Resumes\\8046ff2c-4492-4948-8e3a-2a9da410a44d.pdf"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\Resumes\\a48b96ae-f3aa-4c66-8abe-054ab2d1756f.pdf",
+      "PackagePath": "staticwebassets\\Resumes\\a48b96ae-f3aa-4c66-8abe-054ab2d1756f.pdf"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\Resumes\\ba2fd576-a61d-42bd-b9ae-4dcf521efcb0.pdf",
+      "PackagePath": "staticwebassets\\Resumes\\ba2fd576-a61d-42bd-b9ae-4dcf521efcb0.pdf"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\Resumes\\c3d9a4ef-a473-4156-8495-0887407ca7d9.pdf",
+      "PackagePath": "staticwebassets\\Resumes\\c3d9a4ef-a473-4156-8495-0887407ca7d9.pdf"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\Resumes\\e7b752f4-8eb2-44b7-80ad-803badfb0bc7.pdf",
+      "PackagePath": "staticwebassets\\Resumes\\e7b752f4-8eb2-44b7-80ad-803badfb0bc7.pdf"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\Resumes\\ef2e2734-92d2-413e-9ed7-e83a94dd8f22.pdf",
+      "PackagePath": "staticwebassets\\Resumes\\ef2e2734-92d2-413e-9ed7-e83a94dd8f22.pdf"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\Resumes\\fb9f051f-fefb-4189-8311-a1296b759d9f.pdf",
+      "PackagePath": "staticwebassets\\Resumes\\fb9f051f-fefb-4189-8311-a1296b759d9f.pdf"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\Resumes\\ff72097c-cbb2-4f3a-a39c-a4066f944efb.pdf",
+      "PackagePath": "staticwebassets\\Resumes\\ff72097c-cbb2-4f3a-a39c-a4066f944efb.pdf"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\images\\bg.jpg",
+      "PackagePath": "staticwebassets\\images\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\SCD\\jobPortal\\jobPortal\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.jobPortal.props",
+      "PackagePath": "build\\jobPortal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.jobPortal.props",
+      "PackagePath": "buildMultiTargeting\\jobPortal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.jobPortal.props",
+      "PackagePath": "buildTransitive\\jobPortal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.jobPortal.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.jobPortal.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

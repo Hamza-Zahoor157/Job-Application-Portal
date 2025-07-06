@@ -1,0 +1,80 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+/* --- Custom Navbar Styles --- */
+.custom-navbar {
+  background: rgba(33, 37, 41, 0.95) !important;
+  backdrop-filter: blur(6px);
+  box-shadow: 0 2px 16px 0 rgba(0,0,0,0.12);
+  border-bottom: 1.5px solid #222831;
+}
+
+.custom-navbar .navbar-brand {
+  letter-spacing: 1px;
+  font-weight: 700;
+}
+
+.custom-navbar .nav-link {
+  color: #f8f9fa !important;
+  transition: color 0.2s, background 0.2s;
+  border-radius: 0.3rem;
+  padding: 0.5rem 1rem;
+}
+
+.custom-navbar .nav-link:hover, .custom-navbar .nav-link.active {
+  color: #258cfb !important;
+  background: rgba(37,140,251,0.08);
+}
+
+.custom-navbar .navbar-text {
+  color: #f8f9fa;
+  font-size: 1rem;
+}
+
+.custom-navbar .btn-primary.rounded-pill {
+  background: linear-gradient(90deg, #258cfb 60%, #0056b3 100%);
+  border: none;
+  font-weight: 500;
+  transition: background 0.2s, box-shadow 0.2s;
+  box-shadow: 0 2px 8px 0 rgba(37,140,251,0.10);
+}
+.custom-navbar .btn-primary.rounded-pill:hover {
+  background: linear-gradient(90deg, #0056b3 60%, #258cfb 100%);
+}
+
+.custom-navbar .bi-person-circle {
+  color: #258cfb;
+}
+
+.footer {
+  background-color: #212529;
+  color: #ccc;
+  padding: 1rem 0;
+  position: static;
+  width: 100%;
+  bottom: unset;
+}
+
+.content-wrapper {
+  padding-bottom: 60px; /* for footer spacing */
+}
